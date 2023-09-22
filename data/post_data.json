@@ -1,0 +1,185 @@
+{
+  "users": [
+    {
+      "user_name": "abulhasan412216@gmail.com",
+      "password": "hasan1234",
+      "profile_pic": "",
+      "phone_no": "8489455005"
+    },
+    {
+      "user_name": "yazar",
+      "password": "1234",
+      "profile_pic": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "phone_no": "8489455005"
+    }
+  ],
+  "posts": [
+    {
+      "profile_pic": "https://marketplace.canva.com/EAFfyNv3EC4/2/0/1600w/canva-orange-black-modern-facebook-profile-picture-17RW-gVJo5k.jpg",
+      "id": "user123",
+      "name": "John Doe ",
+      "post_time": "3min",
+      "main_post": {
+        "type": "image",
+        "content": "https://cdn.pixabay.com/photo/2016/03/04/19/36/beach-1236581_640.jpg"
+      },
+      "caption": {
+        "text": "Enjoying a beautiful day at the beach.",
+        "location": "Beach"
+      },
+      "likes": 43,
+      "comments": [
+        {
+          "user_id": "user456",
+          "user_name": "Alice",
+          "comment_text": "Great post, John!"
+        },
+        {
+          "user_id": "user789",
+          "user_name": "Bob",
+          "comment_text": "I agree!"
+        }
+      ],
+      "shares": 7,
+      "liked": true
+    },
+    {
+      "profile_pic": "https://best4geeks.com/wp-content/uploads/2018/07/1.-stylish-boy-profile-picture-4.jpg",
+      "id": "user456",
+      "name": "Alice Johnson",
+      "post_time": "15min",
+      "main_post": {
+        "type": "text",
+        "content": "Hello, Facebook!"
+      },
+      "caption": null,
+      "likes": 20,
+      "comments": [
+        {
+          "user_id": "user123",
+          "user_name": "John Doe",
+          "comment_text": "Hi, Alice!"
+        }
+      ],
+      "shares": 3,
+      "liked": true
+    },
+    {
+      "profile_pic": "https://e0.pxfuel.com/wallpapers/442/208/desktop-wallpaper-stylish-boys-dp-handsome-boys-dp-dp-for-facebook-cool.jpg",
+      "id": "user789",
+      "name": "Bob Smith",
+      "post_time": "1h",
+      "main_post": {
+        "type": "image",
+        "content": "https://www.adorama.com/alc/wp-content/uploads/2018/08/San-Juans.jpg"
+      },
+      "caption": {
+        "text": "Exploring the mountains.",
+        "location": "Mountains"
+      },
+      "likes": 10,
+      "comments": [],
+      "shares": 1,
+      "liked": false
+    },
+    {
+      "profile_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsz7xhTKuSn5vkDiTIwsV0EhaGmFARoK4NT-E_0uU&s",
+      "id": "user101",
+      "name": "Sarah Anderson",
+      "post_time": "30min",
+      "main_post": {
+        "type": "text",
+        "content": "Just finished reading a great book. Highly recommend it!"
+      },
+      "caption": null,
+      "likes": 25,
+      "comments": [
+        {
+          "user_id": "user202",
+          "user_name": "Emily",
+          "comment_text": "What's the book called?"
+        },
+        {
+          "user_id": "user303",
+          "user_name": "David",
+          "comment_text": "I'm always looking for new recommendations. Tell us more!"
+        }
+      ],
+      "shares": 5,
+      "liked": false
+    },
+    {
+      "profile_pic": "",
+      "id": "user404",
+      "name": "Michael Brown",
+      "post_time": "2h",
+      "main_post": {
+        "type": "image",
+        "content": "https://wallpaperaccess.com/full/231735.jpg"
+      },
+      "caption": {
+        "text": "City lights at night. It's mesmerizing!",
+        "location": "City"
+      },
+      "likes": 30,
+      "comments": [
+        {
+          "user_id": "user505",
+          "user_name": "Sophia",
+          "comment_text": "Wow, the city looks so vibrant at night!"
+        },
+        {
+          "user_id": "user606",
+          "user_name": "Daniel",
+          "comment_text": "I love visiting the city. Great photo!"
+        }
+      ],
+      "shares": 8,
+      "liked": false
+    },
+    {
+      "profile_pic": "https://i.pinimg.com/236x/17/27/d4/1727d4d6c15d9b4fee26cf7d5b0592ef.jpg",
+      "id": "user303",
+      "name": "David Smith",
+      "post_time": "4d",
+      "main_post": {
+        "type": "video",
+        "content": ""
+      },
+      "caption": {
+        "text": "Adventures in the mountains. ⛰️",
+        "location": "Mountain Peak"
+      },
+      "likes": 37,
+      "comments": [],
+      "shares": 10,
+      "liked": false
+    },
+    {
+      "profile_pic": "https://1.bp.blogspot.com/-LSpBbO_7g5E/X1h3O1tlZ6I/AAAAAAAABWs/vE0jKYLYemkAZzXQ9Zkh9dYl2SyNM-ZcQCLcBGAsYHQ/s800/facebook-dp-for-boys%252C%2Bfacebook-dp-pic-boy%252C%2Bfacebook-profile-photo%252C%2Bprofile-photo-of-facebook%252C%2Bprofile-photo-of-fb%252C%2Bprofile-photo-on-facebook%252C%2Bprofile-photo-in-facebook%252C%2Bprofile-photo-for-fb%252C%2Bfb-profile-ph.jpg",
+      "id": "user505",
+      "name": "Ella Taylor",
+      "post_time": "5d",
+      "main_post": {
+        "type": "text",
+        "content": "Just adopted a new puppy! Meet Max. 🐶❤️"
+      },
+      "caption": null,
+      "likes": 55,
+      "comments": [
+        {
+          "user_id": "user101",
+          "user_name": "Sarah Anderson",
+          "comment_text": "Max is adorable! Congratulations, Ella!"
+        },
+        {
+          "user_id": "user404",
+          "user_name": "Alex Johnson",
+          "comment_text": "Puppy love! 😍"
+        }
+      ],
+      "shares": 15,
+      "liked": false
+    }
+  ]
+}

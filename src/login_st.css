@@ -1,0 +1,304 @@
+.login_con
+{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 100vh; /* Ensures the container takes up the full viewport height */
+  padding: 20px;
+  box-sizing: border-box;
+    background-color: rgba(183, 216, 224, 0.636);
+}
+.logo_con
+{
+    width: 100vw;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    /* border: red solid 1px; */
+}
+.input_con
+{
+    /* border: red solid 1px; */
+    width: 100vw;
+    height: fit-content;
+    display: block;
+    position: relative;
+    top:50px
+    
+}
+input
+{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    font-size: 18px;
+}
+.user_name
+{
+   /* border: red solid 1px; */
+   display: flex;
+   justify-content: center; 
+   margin: 15px auto;
+}
+.pass_word
+{
+    /* border: red solid 1px; */
+   display: flex;
+   justify-content: center; 
+   margin: 15px auto;
+}
+input
+{
+    border: red solid 1px;
+    width: 90%;
+    height: 55px;
+    border-radius: 10PX;
+    background-color: rgba(255, 255, 255, 0.47);
+    border: rgba(80, 84, 80, 0.574) solid 0.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+    font-size: 18px;
+}
+.btn_login_con
+{
+    /* border: red solid 1px; */
+    display: flex;
+    justify-content: center;
+    width:100vw;
+    height: 50px;
+}
+.login
+{
+    font-family: sans-serif;
+    font-size: larger;
+    font-weight:550;
+    letter-spacing: 1px;
+    width: 96%;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+    background-color: blue;
+    color: rgba(255, 255, 255, 0.895);
+}
+input::placeholder
+{
+    color: rgb(81, 80, 80);
+    padding-left: 10px;
+
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.create_acc
+{
+    margin-top:70px;
+    height:26.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    /* border:red solid 1px */
+}
+.crt_acc_con
+{
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    /* border: red solid 1px; */
+}
+.create_acc_btn
+{
+    font-family: sans-serif;
+    font-size: large;
+    font-weight:530;
+    letter-spacing: 1px;
+    width: 92%;
+    height: 50px;
+    border-radius: 25px;
+    border: blue solid 1px;
+    background-color:rgba(255, 255, 255, 0);
+    color:blue;
+}
+.footer
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    /* border: red solid 1px; */
+}
+.meta_logo{
+    display: flex;
+    font-size: 20px;
+    font-weight:500;
+    font-family: Arial, Helvetica;
+    justify-content: center;
+    color: rgba(57, 59, 59, 0.785);
+}
+.forgot
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    /* border: red solid 1px; */
+    letter-spacing: 0.5px;
+   
+}
+.forgot a
+{
+    color: blue;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

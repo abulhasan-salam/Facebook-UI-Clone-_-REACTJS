@@ -1,0 +1,80 @@
+nav
+{   
+    /* border: red solid 1px; */
+    position:sticky;
+    top:-1px;
+    bottom: 0px;
+    z-index: 6;
+    box-shadow:0px 4px 7px rgba(0, 0, 0, 0.39);
+    padding-bottom: 3px;
+    text-decoration: none;
+    margin-top: 0px;
+    border-bottom: rgba(145, 143, 143, 0.337) solid 2px;
+    background-color: rgb(254, 255, 255);
+}
+nav ul
+{
+    margin:0px 15px 0px 15px;
+    text-decoration: none;
+    display: flex;
+    justify-content:space-between;
+    /* border: green solid 2px; */
+}
+li
+{
+    position:relative;
+    top:5.5px;
+    display: flex;
+    justify-content: center;
+    color: rgb(118, 120, 120);
+    width: 40px;
+    height: 42px;
+   
+    list-style: none;
+}
+.selectedNav
+{ 
+        /* overflow: visible; */
+        border-bottom-left-radius: 2.5px;
+        border-bottom-right-radius: 2.5px;
+        border-bottom:blue solid 4px;
+        color: blue;
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

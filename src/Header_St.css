@@ -1,0 +1,136 @@
+@font-face {
+    font-family: 'fbheader';
+    src: url(./assets/fonts/klavika-bold.otf);
+}
+
+.header
+{
+    font-family: 'fbheader';
+    font-weight:500px;
+    width:95%;
+    display: inline-flex;
+    margin-top: 5px;
+    padding-left:15px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    color: rgb(73, 73, 225);
+}
+.btn_h
+{
+    padding-right: 0px;
+    display: flex;
+    justify-content: end;
+    align-items:center;
+    width:100%;
+}
+.header_bt
+{
+    padding: 5px;
+    border-radius: 50%;
+    background-color: rgba(135, 138, 138, 0.378);
+    color: black;
+    margin-right: 8px;
+}
+.header_bt:hover
+{
+    background-color: rgba(0, 255, 255, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,138 @@
+.post
+{ 
+
+    margin-top: 5px;
+    /* border: red solid 1px; */
+}
+.upper
+{
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    /* border: red solid 1px; */
+}
+.profilePic
+{
+    margin-left: 15px;
+    width: 50px;
+    height: 48px;
+    border-radius: 50%;
+}
+.postInp
+{
+    display: flex;
+    /* border: red solid 1px; */
+    margin-left: 15px;
+    margin-right: 15px;
+    width:100%;
+    align-items: center;
+}
+.inpTab
+{
+    width:100%;
+    height: 38px;
+    border-color: rgba(0, 255, 255, 0);
+    border-radius: 50px;
+    background-color: rgba(135, 138, 138, 0.249);
+}
+.inpTab::placeholder
+{
+    color: rgba(0, 0, 0, 0.819);
+    font-size:20px;
+    font-weight:normal;
+    padding-left: 15px;
+}
+.pstopt
+{
+    margin-top: 12px;
+    height: 34px;
+    border-top: rgba(0, 0, 0, 0.368) solid 1.3px;
+    border-bottom: rgba(0, 0, 0, 0.221) solid 1.3px;
+}
+.optList
+{
+    /* border: solid red 1px; */
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.optList li
+{   
+    /* border: red solid 1px; */
+    padding: 0px 15px;
+    height:30px;
+    width:50%;
+    border-left:rgba(0, 0, 0, 0.195) solid 1.4px;
+}
+li
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

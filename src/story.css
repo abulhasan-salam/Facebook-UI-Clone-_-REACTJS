@@ -1,0 +1,253 @@
+.story_feed_con
+{
+    margin-top: 2px;
+    overflow-x: auto;
+}
+
+.story_feed
+{  
+    width:100%;
+    display:flex;
+    overflow-x:scroll;
+    border-top: rgba(127, 121, 121, 0.679) solid 7px;
+    background-color: rgba(0, 255, 255, 0);
+}
+.st_list_head
+{
+
+    background-color: rgb(237, 241, 244);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 15px;
+    width: 115px;
+    height: 210px;
+}
+
+.st_list_items
+{ 
+    display: flex;
+    /* border: rgb(247, 10, 10) solid 0.1px; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 12px;
+    margin-right: 5px;
+    border-radius: 15px;
+    width: 115px;
+    height: 210px;
+    filter:blur(0.5px)  ;
+    background-color: rgb(12, 12, 12); /* Light black overlay */
+    position: relative;
+
+
+}
+.st_list_items
+{
+    z-index: 1;
+}
+.st_list_items::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 104%;
+    height: 100%;
+    box-shadow: inset 0 0px 25px 25px #0000004b;
+
+     /* Adjust the opacity as needed */
+    border-radius: 15px;
+    z-index: 2; /* Add a higher z-index to bring it above .st_list_items */
+  }
+ .st_feed
+  {
+      border-top-right-radius: 15px;
+      border-top-left-radius: 15px;
+      width: 115px;
+      height: 130px;
+  }
+  .add_st
+  {
+      position:relative;
+      top: -30px;
+      display: flex;
+      flex-direction:column;
+      justify-content: center;
+      align-items: center;
+      width: 110px;
+      /* border: red solid 1px;  */
+  
+  }
+  .st_txt
+  { 
+      font-family: sans-serif;
+      text-align: center;
+      width: 90px;
+      font-weight: bolder;
+      font-size: 16px;
+      /* border: red solid 1px; */
+  }
+
+  .story_li_con
+  {  
+      display: flex;
+      /* border: rgb(247, 10, 10) solid 0.1px; */
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 10px;
+      border-radius: 15px;
+      width: 115px;
+      height: 210px;
+      /* filter:saturate(0.1px) (0.9) blur(0.5px)  ;
+    background-color: rgba(0, 0, 0, 0.316);  */
+  
+  }
+  .image
+  {
+      width:fit-content;
+      border-radius: 10px;
+  }
+  .name {
+      position: absolute;
+      border-bottom: inset black solid ;
+      /* border: red solid 1px; */
+      bottom: 5px; /* Adjust the bottom spacing as needed */
+      left: 5px;
+      width:100%;
+      height: 20%;
+      display: flex;
+      align-items: end;
+      font-size: 16px;
+      font-family: sans-serif;
+      font-weight:650px;
+      color: white;
+      padding: 2px 5px;
+      z-index: 6;
+    }
+  .name-text
+  {
+  
+      word-wrap: break-word;
+      margin: 0px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
